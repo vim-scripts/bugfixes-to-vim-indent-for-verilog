@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=394
+
+The current version of verilog.vim used for indentation evaluates expressions inside '//' comments leading to a grossly misindented code fixed the same
