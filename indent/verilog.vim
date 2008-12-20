@@ -2,6 +2,10 @@
 " Language:	Verilog HDL
 " Maintainer:	Chih-Tsun Huang <cthuang@larc.ee.nthu.edu.tw>
 " Last Change:	Wed Aug  1 21:08:17 CST 2001
+" Last Change: Bug Fix :     2002-08-21 Jahagirdar Vijayvithal S < jahagirdar_vs (at)  yahoo.com>
+" Fixed indentation issues. This version deletes everything in the comment
+" string when a line is read from the buffer hence preventing the rest of the
+" script from interpreting keywords in the comments
 " URL:		http://larc.ee.nthu.edu.tw/~cthuang/vim/indent/verilog.vim
 "
 " Buffer Variables:
